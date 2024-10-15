@@ -67,7 +67,7 @@ repositories {
 }
 
 dependencies {
-    implementation group: 'org.jetbrains', name: 'annotations', version: '26.0.0'
+    implementation group: 'org.jetbrains', name: 'annotations', version: '26.0.1'
 
     implementation group: 'edu.umn.nlpie', name: 'mtap', version: '1.4.3'
 
