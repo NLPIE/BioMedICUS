@@ -37,7 +37,7 @@ classifiers = [
 ]
 dependencies = [
     "mtap>=1.4.3",
-    "tqdm==4.66.5",
+    "tqdm==4.67.1",
     "importlib_resources==6.4.5",
     "pyyaml==6.0.2"
 ]
