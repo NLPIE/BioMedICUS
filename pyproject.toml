@@ -45,7 +45,7 @@ dynamic = ["version"]
 
 [project.optional-dependencies]
 test = [
-    "pytest==8.3.3"
+    "pytest==8.3.4"
 ]
 stanza = [
     "stanza==1.9.2",
