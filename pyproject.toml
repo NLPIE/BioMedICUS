@@ -48,7 +48,7 @@ test = [
     "pytest==8.3.3"
 ]
 stanza = [
-    "stanza==1.9.2",
+    "stanza==1.10.1",
 ]
 
 [project.scripts]
