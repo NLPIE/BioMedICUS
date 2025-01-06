@@ -38,7 +38,7 @@ classifiers = [
 dependencies = [
     "mtap>=1.4.3",
     "tqdm==4.66.5",
-    "importlib_resources==6.4.5",
+    "importlib_resources==6.5.2",
     "pyyaml==6.0.2"
 ]
 dynamic = ["version"]
