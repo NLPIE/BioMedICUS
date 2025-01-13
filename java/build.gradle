@@ -73,7 +73,7 @@ dependencies {
 
     implementation group: 'org.slf4j', name: 'slf4j-api', version: '2.0.16'
     implementation group: 'args4j', name: 'args4j', version: '2.37'
-    implementation group: 'org.rocksdb', name: 'rocksdbjni', version: '9.6.1'
+    implementation group: 'org.rocksdb', name: 'rocksdbjni', version: '9.8.4'
     implementation group: 'org.apache.commons', name: 'commons-text', version: '1.12.0'
     implementation group: 'org.yaml', name: 'snakeyaml', version: '2.3'
     implementation group: 'jakarta.xml.bind', name: 'jakarta.xml.bind-api', version: '4.0.2'
